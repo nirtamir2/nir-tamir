@@ -13,9 +13,8 @@
             <v-icon class="orange--text">code</v-icon>
           </h2>
           <span class="subheading">
-            and more
+            and more ⚽
           </span>
-          <h4>The sky is the limit</h4>
 
           <!-- <h2 class="headline">😃 I love to learn by code 👨‍💻
               <br> 😃 💙 💡 📘 💻 👨‍💻
