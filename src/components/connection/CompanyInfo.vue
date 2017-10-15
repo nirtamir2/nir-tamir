@@ -5,7 +5,7 @@
         <div class="headline">Company info</div>
       </v-card-title>
       <v-card-text>
-        Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+I create awesome web sites and web applications. Hire me to build you a website, teach you to code or speak at your event.
       </v-card-text>
     </v-card>
   </v-flex>
